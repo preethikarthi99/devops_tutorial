@@ -1,0 +1,1 @@
+To test the git commit -a -m "Comments" for a newly created file
